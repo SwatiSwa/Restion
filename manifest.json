@@ -1,0 +1,8 @@
+{
+  "name"        : "Restion",
+  "description" : "A Fancy RESTful webservices client",
+  "version"     : "0.1",
+  "options_page": "index.html",
+  "content_security_policy" : "default-src 'self' style-src 'self' 'unsafe-inline';", 
+  "manifest_version"        : 2
+}
